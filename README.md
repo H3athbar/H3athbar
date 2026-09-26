@@ -2,18 +2,11 @@
 ### A Student from University of Iowa
 
 ---
-
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name or 'Learning XYZ']**
-- 🌱 I’m currently learning **[A technology you are studying]**
-- 💬 Ask me about **[Topics you like, e.g., Python, UI Design, Gaming]**
-- 📫 How to reach me **[Your Email or LinkedIn Link]**
-
 ## About Me
--🎓 BS in Computer Science and Engineering, University of Iowa (Expected: Spring 2028)
--💡 Passionate about software engineering, robotics, machine learning, and AI.
--🧑‍🏫 Teaching Assistant in Software Design course
--🎒 On the side: sand-volleyball enthusiast, playing music, and baking
+- 🎓 BS in Computer Science and Engineering, University of Iowa (Expected: Spring 2028)
+- 💡 Passionate about software engineering, robotics, machine learning, and AI.
+- 🧑‍🏫 Teaching Assistant in Software Design course
+- 🎒 On the side: sand-volleyball enthusiast, playing music, and baking
 
 ---
 
