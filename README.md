@@ -10,10 +10,10 @@
 - 📫 How to reach me **[Your Email or LinkedIn Link]**
 
 ## About Me
-🎓 BS in Computer Science and Engineering, University of Iowa (Expected: Spring 2028)
-💡 Passionate about software engineering, robotics, machine learning, and AI.
-🧑‍🏫 Teaching Assistant in Software Design course
-🎒 On the side: sand-volleyball enthusiast, playing music, and baking
+-🎓 BS in Computer Science and Engineering, University of Iowa (Expected: Spring 2028)
+-💡 Passionate about software engineering, robotics, machine learning, and AI.
+-🧑‍🏫 Teaching Assistant in Software Design course
+-🎒 On the side: sand-volleyball enthusiast, playing music, and baking
 
 ---
 
