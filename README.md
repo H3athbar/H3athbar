@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Heath Lane 👋
+### A Student from University of Iowa
 
-<!--
-**H3athbar/H3athbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **[Project Name or 'Learning XYZ']**
+- 🌱 I’m currently learning **[A technology you are studying]**
+- 💬 Ask me about **[Topics you like, e.g., Python, UI Design, Gaming]**
+- 📫 How to reach me **[Your Email or LinkedIn Link]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🎓 BS in Computer Science and Engineering, University of Iowa (Expected: Spring 2028)
+💡 Passionate about software engineering, robotics, machine learning, and AI.
+🧑‍🏫 Teaching Assistant in Software Design course
+🎒 On the side: sand-volleyball enthusiast, playing music, and baking
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++
+- **Frameworks & Tools:** ROS2, VS Code
+- **Design/Other:** Markdown
+
+---
+
+### 📂 Featured Projects
+
+#### 1. 🌟 [Mars Rover software - Robotics at Iowa Team](https://github.com/roboticsatiowa/Rover)
+*Completed work for the rover controls and starting to improve our GUI with FoxGlove.*
+- **Tech used:** ROS2, VS Code, Python, C++, Linux
+---
+
+### 🤝 Connect with Me
+[🔗 LinkedIn](www.linkedin.com/in/heath-lane-942062259) | [💼 Email](heathelane@gmail.com)
