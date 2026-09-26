@@ -23,4 +23,4 @@
 - [Database Systems]()
 ---
 ### 🤝 Connect with Me
-[🔗 LinkedIn](www.linkedin.com/in/heath-lane-942062259) | [💼 Email](heathelane@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/heath-lane/) | [💼 Email](heathelane@gmail.com)
