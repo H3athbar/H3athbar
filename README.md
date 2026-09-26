@@ -17,10 +17,11 @@
 - **Tech used:** ROS2, VS Code, Python, C++, Linux
 ---
 ### Relevant Coursework
-- [Software Design]()
-- [Computers in Engineering]()
-- [Algorithms]()
-- [Database Systems]()
+- [Software Design](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148323&id=1052816)
+- [AI and Machine Learning](https://myui.uiowa.edu/my-ui/courses/details.page?ci=174234&id=1056658)
+- [Computers in Engineering](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148382&id=1048581)
+- [Algorithms](https://myui.uiowa.edu/my-ui/courses/details.page?ci=158661&id=1072916)
+- [Database Systems](https://myui.uiowa.edu/my-ui/courses/details.page?ci=158672&id=1066883)
 ---
 ### 🤝 Connect with Me
 [🔗 LinkedIn](https://www.linkedin.com/in/heath-lane/) | [💼 Email](mailto:heathelane@gmail.com)
