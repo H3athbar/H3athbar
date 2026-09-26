@@ -7,7 +7,7 @@
 - 🎒 On the side: sand-volleyball enthusiast, playing music, and baking
 ---
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C++
+- **Languages:** Python, C++, Java
 - **Frameworks & Tools:** ROS2, VS Code
 - **Design/Other:** Markdown
 ---
